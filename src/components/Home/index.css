@@ -1,0 +1,59 @@
+.home-container {
+  height: 100vh;
+}
+
+.hamburger {
+  border: none;
+  outline: none !important;
+  cursor: pointer !important;
+}
+
+.nav-link-item {
+  color: #ffffff;
+}
+
+.content-container {
+  padding: 15px 25px 0px;
+}
+
+.greetings {
+  font-family: "Open Sans";
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.course-container {
+  height: 165px;
+  width: 30px;
+  background-color: #d3d3d3;
+  border-radius: 10px;
+  margin-top: 8px;
+}
+
+.new-course-container {
+  height: 200px;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.new-tag {
+  background-color: orange;
+  font-family: "Open Sans";
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 3px 8px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.question {
+  font-family: "Open Sans";
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+}
